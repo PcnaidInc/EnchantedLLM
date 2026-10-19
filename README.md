@@ -121,6 +121,10 @@ You're done! Make a prompt.
 
    You're done! Make a prompt.
 
+## CI
+
+CI runs on every pull request and push to `main`, performing a build check (`xcodebuild build`) against the macOS platform.
+
 # Contact
 
 For any questions please do not hesitate to contact me at augustinas@subj.org
